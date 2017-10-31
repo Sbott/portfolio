@@ -1,0 +1,59 @@
+html, body{
+  font-family: 'Abril Fatface', serif, monospace;
+  padding-top:70px;
+  font-size:1.5rem;
+  color: white;
+}
+
+.navbar-brand{
+  font-size:1.15rem;
+}
+nav{
+  font-family: 'Rajdhani',serif, monospace;
+}
+
+h1, h3{
+  text-align:center;
+}
+
+hr{
+  width:50%;
+}
+
+ul{
+  list-style-type:none;
+}
+
+.bg-img{
+  background-image: url("https://images.unsplash.com/photo-1505851543971-19811a8f4c21?auto=format&fit=crop&w=634&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+  height:100%;
+  margin:0;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+
+input[type=text]{
+  background-color:black;
+  color: white;
+}
+textarea{
+  background-color:black;
+  color: white;
+}
+input[type=submit]{
+  background-color:black;
+  color: white;
+  border-radius:20%;
+  font-size:1.5rem;
+}
+.fa{
+  color: white;
+}
+.soc{
+  display:inline-block;
+  text-align: center;
+  width: 100%;
+  float:none;
+  margin:0;
+}
